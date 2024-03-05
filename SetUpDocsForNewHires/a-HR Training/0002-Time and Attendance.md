@@ -12,10 +12,10 @@ If you have questions about how best to submit the time sheet, ask your supervis
 - Go to hr portal
   - https://www2.sysadm.suny.edu/hrportal/ 
 - Click on Time and Attendance in the HR Portal
-  - ![](C:\SUNY_DOCS\assets\images\HRTrainingImage3.PNG)
+  - ![](./HRTrainingImage3.PNG)
 - You can see the different previous time sheets that have been submitted
 - Click on the time and attendance button to view, update and submit your attendance.
-  - ![](.\HRTrainingImage4.PNG)
+  - ![](./HRTrainingImage4.PNG)
 - Make sure when you want time off, ask your supervisor if it is ok.
 - If you do get time off, mark it down in **Time Charged**.
   - minimum time off in a day is a quarter day, or .25

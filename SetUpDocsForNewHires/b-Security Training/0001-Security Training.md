@@ -6,7 +6,7 @@ Security is paramount in our software project to protect sensitive data, prevent
 
 - Go to the hr portal
 - Click on **KnowBe4 Cyber Training**
-  - ![](C:\Users\xiemi\OneDrive%20-%20State%20University%20of%20New%20York\Documents\GitHub\SUNYITDOCS\SetUpDocsForNewHires\b-Security%20Training\SecurityTrainingImage1.PNG)
+  - ![](./SecurityTrainingImage1.PNG)
 - Login with your SUNY email
 - Do all the necessary assignments and training.
   - Watch the videos
