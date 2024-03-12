@@ -22,7 +22,7 @@ At some point there might be an ethics training you might have to do.
   - Finance
   - Human Resource
   - Security
-    = Paul R Lienhard
+    - Paul R Lienhard
   - Business Intelligence
 - Finance
   - IDK
