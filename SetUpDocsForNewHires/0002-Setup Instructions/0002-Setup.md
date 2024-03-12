@@ -212,6 +212,7 @@ Use the following command to start it up
 systemctl start oracle_database
 ```
 
+Use the following command to get a status on it
 
 ```
 systemctl status oracle_database
